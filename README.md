@@ -18,6 +18,5 @@ Each subfolder is its own `package main` with a `main()` function
 ## How to run
 From the project root (`Learn-GoLang/`):
 ```bash
-go run ./cmd/variables or go run ./cmd/variables/main.go
-go run ./cmd/datatypes
-go run ./cmd/pointers
+go run ./cmd/1_variables or go run ./cmd/1_variables/main.go
+go run ./cmd/2_datatypes
